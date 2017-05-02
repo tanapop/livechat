@@ -1,0 +1,17 @@
+Application path: /livechat/php/app.php?operator-get-typing-status
+2017-05-01 17:38:37 parse_ini_file(/Users/giuseppeconsiglio/htdocs/livechat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /Users/giuseppeconsiglio/htdocs/livechat/php/service/Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2017-05-01 17:38:43 parse_ini_file(/Users/giuseppeconsiglio/htdocs/livechat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /Users/giuseppeconsiglio/htdocs/livechat/php/service/Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2017-05-01 17:38:51 parse_ini_file(/Users/giuseppeconsiglio/htdocs/livechat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /Users/giuseppeconsiglio/htdocs/livechat/php/service/Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2017-05-01 17:38:57 parse_ini_file(/Users/giuseppeconsiglio/htdocs/livechat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /Users/giuseppeconsiglio/htdocs/livechat/php/service/Memory.php
+Application path: /livechat/php/app.php?operator-get-typing-status
+2017-05-01 17:39:02 parse_ini_file(/Users/giuseppeconsiglio/htdocs/livechat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /Users/giuseppeconsiglio/htdocs/livechat/php/service/Memory.php
+Application path: /livechat/php/app.php?operator-update-typing-status
+2017-05-01 17:39:02 parse_ini_file(/Users/giuseppeconsiglio/htdocs/livechat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /Users/giuseppeconsiglio/htdocs/livechat/php/service/Memory.php
+2017-05-01 17:39:02 parse_ini_file(/Users/giuseppeconsiglio/htdocs/livechat/php/../data/memory.dat): failed to open stream: No such file or directory on line 97 in /Users/giuseppeconsiglio/htdocs/livechat/php/service/Memory.php
+2017-05-01 17:39:02 array_merge(): Argument #1 is not an array on line 102 in /Users/giuseppeconsiglio/htdocs/livechat/php/service/Memory.php
+2017-05-01 17:39:02 array_keys() expects parameter 1 to be array, boolean given on line 104 in /Users/giuseppeconsiglio/htdocs/livechat/php/service/Memory.php
+2017-05-01 17:39:02 Invalid argument supplied for foreach() on line 104 in /Users/giuseppeconsiglio/htdocs/livechat/php/service/Memory.php
+2017-05-01 17:39:02 Invalid argument supplied for foreach() on line 79 in /Users/giuseppeconsiglio/htdocs/livechat/php/service/Memory.php
